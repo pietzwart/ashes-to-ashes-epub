@@ -1,4 +1,6 @@
-# Introduction
+# Report
+
+### Introduction
 
 The thematic workshop looked at modes of public distribution and the
 difficulties faced in shifting private sources of knowledge into the

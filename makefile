@@ -75,13 +75,13 @@ epub: clean $(allmarkdown) book.md epub/metadata.xml epub/styles.epub.css epub/c
 		--from markdown \
 		--to epub3 \
 		--self-contained \
-		--epub-chapter-level=1 \
+		--epub-chapter-level=3 \
 		--epub-stylesheet=../epub/styles.epub.css \
 		--epub-cover-image=../epub/cover.jpg \
 		--epub-metadata=../epub/metadata.xml \
 		--default-image-extension png \
-		--toc-depth=1 \
-		-o ../book.epub \
+		--toc-depth=3 \
+		-o ../ashes-to-ashes.epub \
 		book.md ; \
 
 #include line, if you wanto embed font:
