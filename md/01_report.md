@@ -82,6 +82,8 @@ two communities, albeit sharing a similar approach, were unable to come
 to a consensus on a legal model for sharing and releasing intellectual
 property, as their ideologies strongly differed.
 
+![Aymeric](imgs/americ.jpg)
+
 Eric S. Raymond, advocating the OSS ideology, focusses primarily on
 economic Interest. This argument supports the concept of Open Source
 Software as far as its potential to improve products. Richard Stallman,
@@ -101,6 +103,8 @@ pluralism ended somewhere in 2003. Due to ideological and economic
 bankruptcy, the various licensing models withdrew and formed into two
 dominant blocks: CC and Free Culture. As the Free Culture movement is
 driven by ethical.
+
+![Aymeric's lecture](imgs/americs_lecture.jpg)
 
 Deliberative models: Wikipedia! Free Culture -
 
@@ -170,6 +174,8 @@ anywhere, remained in the world. His is basically the modern version of
 the story of the difficult birth of the interconnectedness, which we
 today call "the Internet".
 
+![](imgs/florian2.jpg)
+
 A beautiful documentary, "The Man Who Wanted To Classify The World",
 was created by Francoise Levie for release by Sofidoc Productions in
 2002, following almost 1 year of opening and cataloguing the remains of
@@ -225,6 +231,8 @@ those who are capable of revealing through concealing, and concealing
 through revealing, as Lori Emerson would describe in "Reading, Writing
 Interface".
 
+![](imgs/floria3.jpg)
+
 Reflecting on the argument on tools and society, Fuller states that a
 program like Microsoft Word, for example, somehow defines our society;
 not only by providing an excess of tools, but also by providing the
@@ -279,11 +287,11 @@ explains a list of techniques that the wiki community has designed for
 itself to continue its project. An interesting point is the one of The
 fundamental principles of Wikipedia summarized in five "pillars":
 
- Wikipedia is an encyclopedia and the community of people who build it\
- Wikipedia is written from a neutral point of view\
- Wikipedia is free content that anyone can use, edit, and distribute\
- Editors should treat each other with respect and civility\
- Wikipedia has no firm rules\
+* Wikipedia is an encyclopedia and the community of people who build it
+* Wikipedia is written from a neutral point of view
+* Wikipedia is free content that anyone can use, edit, and distribute
+* Editors should treat each other with respect and civility
+* Wikipedia has no firm rules
 
 Ever changing, ever evolving, self-governed model of building has
 proven its power. Many issues still have to be resolved, for example,
@@ -369,6 +377,8 @@ photography, design of architecture. In her talk, she addresses
 background of publishing, advantages and disadvantages about
 e-publishing and the role of digital books in modern reading culture.
 
+![](imgs/anett_florian2.jpg)
+
 Publishing ebooks is not as easy or cheap as it may seem. Most of the
 time production costs are as big or even bigger than those of paper
 publications, if you take in account that the digital book market is
@@ -392,6 +402,8 @@ the progression of the digital book carefully and be need to adapt to
 the upcoming changes.
 
 #### The Curator – Florian Cramer
+
+![](imgs/florian.jpg)
 
 Florian Cramer, theorist and critical researcher, presented his point of
 view on how changed the role of curator and the whole term of curation
@@ -472,6 +484,8 @@ this sense, despite the general belief that a document is meant to grasp
 or capture a work and give it a fixed space in memory, they felt that
 the document served as an apparatus of modulation and a continuous shift
 of meaning and form.
+
+![](imgs/florian5.jpg)
 
 ##### Narration
 

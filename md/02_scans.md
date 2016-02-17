@@ -1,0 +1,43 @@
+# Transmediations
+
+## 2013
+
+## 2014
+
+![2014_Art_of_Archiving_Marlon_Harder_seen_by_Lucia_Dossin](imgs/2014_Art_of_Archiving_Marlon_Harder_seen_by_Lucia_Dossin.png)
+2014_Art_of_Archiving_Marlon_Harder_seen_by_Lucia_Dossin
+
+![2014_Art_of_Archiving_Nan_Wang_seen_by_Mihail_Bakalova](imgs/2014_Art_of_Archiving_Nan_Wang_seen_by_Mihail_Bakalova.png)
+2014_Art_of_Archiving_Nan_Wang_seen_by_Mihail_Bakalova
+
+![2014_Art_of_Archiving_Roel_Abbing_seen_by_Lidia_Pereira](imgs/2014_Art_of_Archiving_Roel_Abbing_seen_by_Lidia_Pereira.png)
+2014_Art_of_Archiving_Roel_Abbing_seen_by_Lidia_Pereira
+
+![2014_Artyom_Kocharyan_seen_by_michaela_lakova](imgs/2014_Artyom_Kocharyan_seen_by_michaela_lakova.rtf)
+2014_Artyom_Kocharyan_seen_by_michaela_lakova
+
+## 2015
+
+![2015_Anne_Lamb_documented_Elleke_Hageman](imgs/2015_Anne_Lamb_documented_Elleke_Hageman.txt)
+2015_Anne_Lamb_documented_Elleke_Hageman
+
+![2015_Arantxa_Gonlag_documented_Junyu_Chen](imgs/2015_Arantxa_Gonlag_documented_Junyu_Chen.png)
+2015_Arantxa_Gonlag_documented_Junyu_Chen
+
+![2015_Benjamin_Li_documented_Mihail_Bakalov](imgs/2015_Benjamin_Li_documented_Mihail_Bakalov.png)
+2015_Benjamin_Li_documented_Mihail_Bakalov
+
+![2015_Cristina_Cochior_documented_Lídia_Rodrigues](imgs/2015_Cristina_Cochior_documented_Lídia_Rodrigues.png)
+2015_Cristina_Cochior_documented_Lídia_Rodrigues
+
+![2015_Lucas_Battich_documented_Ana_Luísa_Moura](imgs/2015_Lucas_Battich_documented_Ana_Luísa_Moura.png)
+2015_Lucas_Battich_documented_Ana_Luísa_Moura
+
+![2015_Manetta_Berends_documented_Nikos_Vogiatzis](imgs/2015_Manetta_Berends_documented_Nikos_Vogiatzis.png)
+2015_Manetta_Berends_documented_Nikos_Vogiatzis
+
+![2015_R.vdVen_documented_H-J.dGroot](imgs/2015_R.vdVen_documented_H-J.dGroot.png)
+2015_R.vdVen_documented_H-J.dGroot
+
+![2015_Thomas_Walskaar_documented_Max_Dovey](imgs/2015_Thomas_Walskaar_documented_Max_Dovey.png)
+2015_Thomas_Walskaar_documented_Max_Dovey
