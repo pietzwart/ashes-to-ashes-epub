@@ -1,13 +1,27 @@
+@font-face {
+    font-family: "HKGrotesk-Regular";
+    font-style: normal;
+    font-weight: normal;
+    src:url("hkgrotesk_regular.ttf");
+}
+
+@font-face {
+    font-family: "HKGrotesk-Bold";
+    font-style: normal;
+    font-weight: bold;
+    src:url("hkgrotesk_bold.ttf");
+}
+
 body{
     font-size:12pt;
     background: white;
     color: black;
-    font-family: hk-grotesk-regular, sans;	
+    font-family: "HKGrotesk-Regular", sans-serif;
 }
 
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: monospace;
+    font-family: "HKGrotesk-Regular", monospace;
     font-weight: 300;
     hyphens: none !important;
     -moz-hyphens: none !important;
