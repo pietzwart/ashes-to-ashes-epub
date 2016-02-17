@@ -11,8 +11,8 @@ icmls=$(wildcard icml/*.icml)
 
 
 test: $(allmarkdown)
-	echo "start" ; 
-	echo $(allmarkdown) ; 
+	echo "start" ;
+	echo $(allmarkdown) ;
 	echo "end" ;
 
 
@@ -81,16 +81,14 @@ epub: clean $(allmarkdown) book.md epub/metadata.xml epub/styles.epub.css epub/c
 		--epub-metadata=../epub/metadata.xml \
 		--default-image-extension png \
 		--toc-depth=1 \
-		--epub-embed-font=../lib/* \
 		-o ../book.epub \
 		book.md ; \
-		
+
 #include line, if you wanto embed font:
 #		--epub-embed-font=lib/UbuntuMono-B.ttf \
 
 
 clean:  # remove outputs
-	rm -f md/book.md  
-	rm -f book.epub 
+	rm -f md/book.md
+	rm -f book.epub
 	rm -f *~ */*~  #emacs files
-

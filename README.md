@@ -1,3 +1,11 @@
+# forked folder: Hybrid Publication's Resources
+
+This is a fork of the publication resources to build an epub, as delivered by https://gitlab.com/DigitalPublishingToolkit/Hybrid-Publishing-Resources/
+
+This specific project is detailed [here](https://pzwiki.wdka.nl/mediadesign/Thematic-Making_It_Public) and [reported here](https://pzwiki.wdka.nl/mediadesign/Makingitpublic-report).
+
+Below is the original README
+
 # INC Hybrid Publication's Resources
 
 This repository consists of a collection of resources aimed at the development hybrid publications, in both reflowable format (EPUB3) and *fixed layout* (Scribus and inDesign structured content).
@@ -66,5 +74,3 @@ html5lib missing from macs - fix in epub_process.py
 clean up markdown: use pandoc -f markdown -t markdown (see book)
 
 if there is no metadata in markdown md_stripmetada -> dont apply over to the command
-
-
