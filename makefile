@@ -79,6 +79,8 @@ epub: clean $(allmarkdown) book.md epub/metadata.xml epub/styles.epub.css epub/c
 		--epub-stylesheet=../epub/styles.epub.css \
 		--epub-cover-image=../epub/cover.jpg \
 		--epub-metadata=../epub/metadata.xml \
+		--epub-embed-font="lib/hkgrotesk_regular.ttf" \
+		--epub-embed-font="lib/hkgrotesk_bold.ttf" \
 		--default-image-extension png \
 		--toc-depth=3 \
 		-o ../ashes-to-ashes.epub \
